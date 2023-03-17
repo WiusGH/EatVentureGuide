@@ -1,0 +1,74 @@
+/*Global values*/
+
+
+body {
+    background-color: rgb(50, 226, 226);
+}
+
+img {
+
+}
+
+h1 {
+
+}
+
+h2 {
+    text-align: center;
+    font-family: "montserrat-bold";
+
+}
+
+hr {
+    border-top: dotted;
+    border-bottom: none;
+    border-width: 0.5rem;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 100%;
+    padding: 15px 0 15px 0;
+    width: 3%;
+}
+
+/*Title section*/
+
+
+
+/*Content section*/
+
+
+
+/*Cities section*/
+
+
+
+/*Levels section*/
+
+
+
+/*Events section*/
+
+.accordion {
+    --bs-accordion-bg: rgb(50, 226, 226);
+}
+
+
+/*Items section*/
+
+.items-imgs {
+    margin: 8px 0 8px 0;
+    width: 100px;
+}
+
+
+/*Strategies section*/
+
+
+/*footer*/
+
+.footer {
+    font-size: 1rem;
+    margin-bottom: 0;
+    text-align: center;
+}
