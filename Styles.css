@@ -3,6 +3,7 @@
 
 body {
     background-color: rgb(50, 226, 226);
+    margin: 2%;
 }
 
 img {
@@ -23,7 +24,7 @@ hr {
     border-top: dotted;
     border-bottom: none;
     border-width: 0.5rem;
-    color: black;
+    color: rgb(94, 93, 93);
     margin-left: auto;
     margin-right: auto;
     opacity: 100%;
